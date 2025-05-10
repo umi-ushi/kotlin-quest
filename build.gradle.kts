@@ -2,7 +2,7 @@ plugins {
     kotlin("jvm") version "2.1.20"
 }
 
-group = "wa.umiushi"
+group = "wa.umiushi.kotlin_quest"
 version = "1.0-SNAPSHOT"
 
 repositories {
